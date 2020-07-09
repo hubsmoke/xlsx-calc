@@ -48,6 +48,7 @@ let formulas = {
     'SUMIF': sumif, // missing test,
     'CHOOSE': choose,
     'SUBSTITUTE': substitute,
+    'ROUNDUP': round
 };
 
 function choose(option) {
